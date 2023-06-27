@@ -1,12 +1,17 @@
 
-### Olá, eu sou o Luiz Junior ⚡
+##### Welcome to my Github profile.
 
+## About me 🙋🏽‍♂️
+#### Hi, I'm Luiz Junior ⚡
+##### I have been working on some personal projects and today I am studying more about JavaScript (React.js).
+
+## Social media 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizcorreajr/)
 
-![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=lz-junior&theme=blue-green)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lz-junior&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=lz-junior&theme=blue-green)
 
-## Tecnologias do meu dia a dia
+## My everyday technologies 🌐
 
 <div style="display: inline-block"></br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
