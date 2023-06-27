@@ -3,8 +3,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizcorreajr/)
 
-![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=lz-junior&show_icons=true&theme=merko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lz-junior&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=lz-junior&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lz-junior&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias do meu dia a dia
 
