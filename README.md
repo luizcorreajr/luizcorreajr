@@ -11,6 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lz-junior&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 ![Junior GitHub stats](https://github-readme-stats.vercel.app/api?username=lz-junior&theme=blue-green)
 
+
 ## My everyday technologies 🌐
 
 <div style="display: inline-block"></br>
