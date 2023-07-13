@@ -5,6 +5,7 @@
 #### Hi, I'm Luiz Junior ⚡
 ##### I've been working on some personal projects and studying new technologies. I develop a lot with JavaScript (React).
 
+
 ## Social media 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizcorreajr/)
 
