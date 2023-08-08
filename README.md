@@ -21,6 +21,9 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </div>
 
+
+<!-- COLOCAR A TECNOLOGIA DE TYPESCRIPT NA DESCRIÇÃO -->
+
 <!--
 **lz-junior/lz-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
