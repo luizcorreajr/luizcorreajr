@@ -23,6 +23,8 @@
 
 
 <!-- COLOCAR A TECNOLOGIA DE TYPESCRIPT NA DESCRIÇÃO -->
+<!-- revisar o github e atualizar -->
+
 
 <!--
 **lz-junior/lz-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
