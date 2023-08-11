@@ -23,7 +23,7 @@
 
 
 <!-- COLOCAR A TECNOLOGIA DE TYPESCRIPT NA DESCRIÇÃO -->
-<!-- revisar o github e atualizar -->
+<!-- atualizar github -->
 
 
 <!--
