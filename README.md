@@ -22,8 +22,6 @@
 </div>
 
 
-<!-- COLOCAR A TECNOLOGIA DE TYPESCRIPT NA DESCRIÇÃO -->
-
 
 
 <!--
