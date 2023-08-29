@@ -26,6 +26,7 @@
 <!-- 
 010010001001010110101010111010101010101010111101
 Ver quais números serão usados!!!
+->  3 números já foram usados em commits
 -->
 <!--
 **lz-junior/lz-junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
